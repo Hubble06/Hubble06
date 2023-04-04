@@ -13,5 +13,6 @@
  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/></a>
  
 <h2> STATS <h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubble06&layout=compact)]
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubble06&layout=compact)
     
