@@ -10,5 +10,5 @@
 <h2> SECURITY <h2>
  <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=Kali Linux&logoColor=white"/></a>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Hubble06=anuraghazra&layout=compact)](https://github.com/anuraghazra/github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubble06&layout=compact)](https://github.com/Hubble06/github
     
